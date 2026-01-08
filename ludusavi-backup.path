@@ -2,7 +2,7 @@
 Description=Trigger Ludusavi Backup on Game State Change
 
 [Path]
-PathModified=/home/deck/.steam/steam/logs/controller.txt
+PathModified=/home/pit/.steam/steam/logs/controller.txt
 
 [Install]
 WantedBy=multi-user.target
